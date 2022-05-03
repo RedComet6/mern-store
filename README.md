@@ -1,1 +1,1 @@
-# redux-store
+# mern-store
